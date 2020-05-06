@@ -1,0 +1,1 @@
+scalac -bootclasspath /Users/nikhilkotwani/.sbt/boot/scala-2.12.10/lib/scala-library.jar -classpath /Users/nikhilkotwani/git/GCP_terraform_dataproc/scala/target/scala-2.12/classes /Users/nikhilkotwani/git/GCP_terraform_dataproc/scala/HelloWorld.scala
